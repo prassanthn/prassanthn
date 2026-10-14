@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @prassanthn
-- 👀 I’m interested in angular , react , asp.net core , typescript 
-- 🌱 I’m currently learning react
+- 👀 I’m interested in web app frameworks, python , .net , ai powered apps, machine learning
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me @prassanth.nicholas@gmail.com
 
